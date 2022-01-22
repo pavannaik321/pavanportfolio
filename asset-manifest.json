@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/pncreation/static/css/main.4b47725c.css",
+    "main.js": "/pncreation/static/js/main.6b1f5aa1.js",
+    "static/js/787.4e4a90a8.chunk.js": "/pncreation/static/js/787.4e4a90a8.chunk.js",
+    "static/media/lyma mockup.png": "/pncreation/static/media/lyma mockup.80c09f3a3ed97bb90954.png",
+    "static/media/pavan3.png": "/pncreation/static/media/pavan3.c3f313680ce1d3c6bcec.png",
+    "static/media/about-img.jpg": "/pncreation/static/media/about-img.ba9e2e14c18cf16e8f61.jpg",
+    "static/media/hire-img.jpg": "/pncreation/static/media/hire-img.7c10053cfbd101757bec.jpg",
+    "static/media/ishop mockup.png": "/pncreation/static/media/ishop mockup.ae23bbd4db9372d666f5.png",
+    "static/media/ui design.png": "/pncreation/static/media/ui design.5af692c80423add26c5d.png",
+    "static/media/native.png": "/pncreation/static/media/native.02f8dd51de754e8e1d93.png",
+    "static/media/send me.jpg": "/pncreation/static/media/send me.9855e224ba3579938c18.jpg",
+    "static/media/katlen.jpg": "/pncreation/static/media/katlen.104d300a30e250bd3e41.jpg",
+    "static/media/logo1.png": "/pncreation/static/media/logo1.7d2318f8140281a5a901.png",
+    "index.html": "/pncreation/index.html",
+    "main.4b47725c.css.map": "/pncreation/static/css/main.4b47725c.css.map",
+    "main.6b1f5aa1.js.map": "/pncreation/static/js/main.6b1f5aa1.js.map",
+    "787.4e4a90a8.chunk.js.map": "/pncreation/static/js/787.4e4a90a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b47725c.css",
+    "static/js/main.6b1f5aa1.js"
+  ]
+}

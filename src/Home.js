@@ -58,23 +58,23 @@ function Home() {
               <ul className="sidebar d__flex" >
               <li className="sideNavbar" data-aos="fade-left" data-aos-easing="linear"
      data-aos-duration="500">
-              <a href="#home">Home</a>
+              <a href="#Home">Home</a>
             </li>
             <li className="sideNavbar" data-aos="fade-left" data-aos-easing="linear"
      data-aos-duration="500" >
-              <a href="#about">About</a>
+              <a href="#About">About</a>
             </li>
             <li className="sideNavbar" data-aos="fade-left" data-aos-easing="linear"
      data-aos-duration="500" >
-              <a href="#services">Services</a>
+              <a href="#Services">Services</a>
             </li>
             <li className="sideNavbar" data-aos="fade-left" data-aos-easing="linear"
      data-aos-duration="500" >
-              <a href="#portfolio">Portfolio</a>
+              <a href="#Portfolio">Portfolio</a>
             </li>
             <li className="sideNavbar" data-aos="fade-left" data-aos-easing="linear"
      data-aos-duration="500" >
-              <a href="#contact">Contact</a>
+              <a href="#Contact">Contact</a>
             </li>
               </ul>
           </div>

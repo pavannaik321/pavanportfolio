@@ -179,9 +179,9 @@ function Service() {
                 </svg>
               </div>
               <div className="service__meta" >
-                <h1 className="service__text">App UI UX Design</h1>
+                <h1 className="service__text">Mobile Application Development</h1>
                 <p className="p service__text p__color">
-                I am committed to delivering top-notch quality UI/UX Design for your Website in XD, PSD, and Figma.
+                I am committed to delivering top-notch quality Cross platform Application using Flutter.
                 </p>
               </div>
             </div>

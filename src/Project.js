@@ -135,7 +135,7 @@ function Project() {
                  </div>
              </div>
 
-            //blog
+            
 
         <div className="col__3" data-aos="flip-left" ata-aos-easing="linear"
      data-aos-duration="500">

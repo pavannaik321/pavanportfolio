@@ -6,6 +6,11 @@ import Project3 from './img/send me.jpg';
 import Project4 from './img/katlen.jpg';
 import Project5 from './img/native.png';
 import Project6 from './img/ui design.png';
+import Project7 from './img/blog.png';
+import Project8 from './img/election.png';
+import Project9 from './img/online-assignment.png';
+import Project10 from './img/salon.jpeg';
+import Project11 from './img/app-ui.jpeg';
 
 
 function Project() {
@@ -125,6 +130,93 @@ function Project() {
                      <div className="project__meta absolute">
                      <h5 className=" mono">Chattingo</h5>
                      <h5 className="project__text">App UI Design</h5>
+                     {/* <a href="#" className="project__btn">View Details</a> */}
+                     </div>
+                 </div>
+             </div>
+
+            //blog
+
+        <div className="col__3" data-aos="flip-left" ata-aos-easing="linear"
+     data-aos-duration="500">
+                 <div className="project__box pointer relative">
+                     <div className="project__box__img pointer relative">
+                         <div className="project__img__box">
+                             <img src={Project7} alt="" className="project__img" />
+                         </div>
+                         <div className="mask__effect"></div>
+                     </div>
+                     <div className="project__meta absolute">
+                     <h5 className=" mono">Blog website</h5>
+                     <h5 className="project__text">first front-end react website</h5>
+                     {/* <a href="#" className="project__btn">View Details</a> */}
+                     </div>
+                 </div>
+             </div>
+
+  <div className="col__3" data-aos="flip-left" ata-aos-easing="linear"
+     data-aos-duration="500">
+                 <div className="project__box pointer relative">
+                     <div className="project__box__img pointer relative">
+                         <div className="project__img__box">
+                             <img src={Project8} alt="" className="project__img" />
+                         </div>
+                         <div className="mask__effect"></div>
+                     </div>
+                     <div className="project__meta absolute">
+                     <h5 className=" mono">Election</h5>
+                     <h5 className="project__text">College election website</h5>
+                     {/* <a href="#" className="project__btn">View Details</a> */}
+                     </div>
+                 </div>
+             </div>
+
+  <div className="col__3" data-aos="flip-left" ata-aos-easing="linear"
+     data-aos-duration="500">
+                 <div className="project__box pointer relative">
+                     <div className="project__box__img pointer relative">
+                         <div className="project__img__box">
+                             <img src={Project9} alt="" className="project__img" />
+                         </div>
+                         <div className="mask__effect"></div>
+                     </div>
+                     <div className="project__meta absolute">
+                     <h5 className=" mono">Test-Me</h5>
+                     <h5 className="project__text">Online Assignment Website</h5>
+                     {/* <a href="#" className="project__btn">View Details</a> */}
+                     </div>
+                 </div>
+             </div>
+
+  <div className="col__3" data-aos="flip-left" ata-aos-easing="linear"
+     data-aos-duration="500">
+                 <div className="project__box pointer relative">
+                     <div className="project__box__img pointer relative">
+                         <div className="project__img__box">
+                             <img src={Project10} alt="" className="project__img" />
+                         </div>
+                         <div className="mask__effect"></div>
+                     </div>
+                     <div className="project__meta absolute">
+                     <h5 className=" mono">HairWayOn App</h5>
+                     <h5 className="project__text">Real time salon locator</h5>
+                     {/* <a href="#" className="project__btn">View Details</a> */}
+                     </div>
+                 </div>
+             </div>
+
+  <div className="col__3" data-aos="flip-left" ata-aos-easing="linear"
+     data-aos-duration="500">
+                 <div className="project__box pointer relative">
+                     <div className="project__box__img pointer relative">
+                         <div className="project__img__box">
+                             <img src={Project11} alt="" className="project__img" />
+                         </div>
+                         <div className="mask__effect"></div>
+                     </div>
+                     <div className="project__meta absolute">
+                     <h5 className=" mono">Mobile Ui design</h5>
+                     <h5 className="project__text">Interactive Ui UX design</h5>
                      {/* <a href="#" className="project__btn">View Details</a> */}
                      </div>
                  </div>

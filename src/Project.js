@@ -11,6 +11,7 @@ import Project8 from './img/election.png';
 import Project9 from './img/online-assignment.png';
 import Project10 from './img/salon.jpeg';
 import Project11 from './img/app-ui.jpeg';
+import Project12 from './img/desktop.png';
 
 
 function Project() {
@@ -200,6 +201,23 @@ function Project() {
                      <div className="project__meta absolute">
                      <h5 className=" mono">HairWayOn App</h5>
                      <h5 className="project__text">Real time salon locator</h5>
+                     {/* <a href="#" className="project__btn">View Details</a> */}
+                     </div>
+                 </div>
+             </div>
+
+                       <div className="col__3" data-aos="flip-left" ata-aos-easing="linear"
+     data-aos-duration="500">
+                 <div className="project__box pointer relative">
+                     <div className="project__box__img pointer relative">
+                         <div className="project__img__box">
+                             <img src={Project12} alt="" className="project__img" />
+                         </div>
+                         <div className="mask__effect"></div>
+                     </div>
+                     <div className="project__meta absolute">
+                     <h5 className=" mono">Rescuter</h5>
+                     <h5 className="project__text">Application to connect rescue nearby agency</h5>
                      {/* <a href="#" className="project__btn">View Details</a> */}
                      </div>
                  </div>

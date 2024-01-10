@@ -1,5 +1,5 @@
 .home__bg{
-    background-image: url(C:\Users\Dell\Downloads\portfolio\portfolio\app\src\img\pavan3.png);
+    background-image: url('./img/pavan3.png');
     background-color: #010101;
     background-position: 85%;
     background-repeat: no-repeat;
